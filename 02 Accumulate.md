@@ -35,6 +35,19 @@
 
 
 
+# 06 Sentence
+
+* 煎和熬都是变美味的方式，加油也是
+* Frying and boiling are both ways to become delicious,and so is refueling.
+* boiling 熬
+* refueling 加油
+
+
+
+
+
+
+
 
 
 
