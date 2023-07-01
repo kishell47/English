@@ -26,3 +26,17 @@
 
 
 
+# 05 Sentence
+
+* Refuse laziness and impetuosity
+* 拒绝懒惰 拒绝浮躁
+* laziness 懒惰
+* impetuosity 浮躁
+
+
+
+
+
+
+
+# 
