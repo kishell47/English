@@ -17,7 +17,7 @@
 
 # 01 first  错6题 扣3‘ 得7’
 
-![image-20230728135735448](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307281357779.png)
+![image-20230730164039640](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307301640893.png)
 
 # 02 解析 
 
