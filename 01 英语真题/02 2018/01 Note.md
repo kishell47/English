@@ -19,15 +19,29 @@
 
 ![image-20230730164039640](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307301640893.png)
 
-# 02 解析 
 
 
-
-# 长难句
+# 02 长难句
 
 ![image-20230729141619400](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307291416607.png)
 
-# 单词 短语
+
+
+# 03 解析 
+
+![image-20230730195246894](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307301952341.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
