@@ -17,15 +17,11 @@
 
 # 01 first  错6题 扣3‘ 得7’
 
-![image-20230730164039640](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307301640893.png)
-
 
 
 # 02 长难句
 
 ![image-20230729141619400](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307291416607.png)
-
-
 
 # 03 解析 
 
@@ -37,7 +33,7 @@
 
 
 
-* 试题：P113
+* 试题：P116
 
 * 黄皮书 逐词逐句精讲 P342
 
@@ -46,6 +42,8 @@
 
 
 # 00 first  错1题 扣2‘ 得8’
+
+* 22 选的D正确答案C
 
 
 
