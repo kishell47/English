@@ -8,8 +8,6 @@
 
 # 完型 1空：0.5‘ 共：10’  
 
-
-
 * 试题：P113
 * 黄皮书 逐词逐句精讲 P337
 
@@ -30,8 +28,6 @@
 
 
 # 阅读 1空：2‘ 共：10’  
-
-
 
 * 试题：P116
 
@@ -57,3 +53,15 @@
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308071416190.png" alt="image-20230807141627880" style="zoom:50%;" />
 
+
+
+# 阅读2 
+
+* 试题：P118
+* 黄皮书 逐词逐句精讲 P350
+
+
+
+# 02 单词 短语 句子
+
+![image-20230811172649060](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308111726164.png)
