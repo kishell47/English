@@ -64,4 +64,4 @@
 
 # 02 单词 短语 句子
 
-![image-20230811172649060](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308111726164.png)
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308112225649.png" alt="image-20230811222531558" style="zoom:50%;" />
