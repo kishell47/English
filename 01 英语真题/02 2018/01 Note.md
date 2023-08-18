@@ -55,13 +55,18 @@
 
 
 
-# 阅读2 
+# 阅读2 错1题 2‘
 
 * 试题：P118
 * 黄皮书 逐词逐句精讲 P350
 
 
 
-# 02 单词 短语 句子
+# 01 单词 短语 句子
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308112225649.png" alt="image-20230811222531558" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308141734444.png" alt="image-20230814173411320" style="zoom:50%;" />
+
+# 02 唐迟解析
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308182229288.png" alt="image-20230818222918057" style="zoom:50%;" />
+
