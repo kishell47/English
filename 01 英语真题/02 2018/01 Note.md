@@ -70,3 +70,13 @@
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308182229288.png" alt="image-20230818222918057" style="zoom:50%;" />
 
+
+
+# 阅读3 
+
+* 试题：P120
+* 黄皮书 逐词逐句精讲 P
+
+
+
+# 01 单词 短语 句子
