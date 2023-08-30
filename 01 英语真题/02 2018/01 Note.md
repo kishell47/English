@@ -72,14 +72,25 @@
 
 
 
-# 阅读3 
+# 阅读3 全对
 
 * 试题：P120
 * 黄皮书 逐词逐句精讲 P
 
 
 
+# 唐迟解析
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308302233769.png" alt="image-20230830223326627" style="zoom:50%;" />
+
+
+
 # 01 单词 短语 句子
 
-* 31 C
-* 32 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308301407729.png" alt="image-20230830140713600" style="zoom: 43%;" />
+
+
+
+# 02 做题1
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308301407073.png" alt="image-20230830140744647" style="zoom: 50%;" />
