@@ -6,9 +6,9 @@
 
 
 
-# 背诵
+# 单词短语
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311281114308.png" alt="image-20231128111440220" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311281144006.png" alt="image-20231128114359891" style="zoom:50%;" />
 
 
 
