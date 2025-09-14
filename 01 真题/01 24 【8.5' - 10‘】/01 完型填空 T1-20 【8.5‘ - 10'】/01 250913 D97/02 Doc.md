@@ -4,5 +4,7 @@
 
 
 
-# 02 答案解析
+# 02 T9 1.5'
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202509141100185.png" alt="image-20250914110039082" style="zoom:50%;" />
 
