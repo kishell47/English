@@ -1,3 +1,3 @@
 # 01 单词 词组
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202509280031870.png" alt="image-20250928003129819" style="zoom:50%;" />
+<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250928215151458.png" style="zoom:50%;" />
