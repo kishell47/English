@@ -1,6 +1,6 @@
 # 01 单词 词组
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20251001135432135.png" alt="image-20251001135432135" style="zoom:50%;" />
+
 
 
 
