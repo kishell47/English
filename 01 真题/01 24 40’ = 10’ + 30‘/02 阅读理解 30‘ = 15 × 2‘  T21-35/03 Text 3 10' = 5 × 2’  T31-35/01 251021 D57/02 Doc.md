@@ -1,3 +1,3 @@
 # 01 单词 词组
 
-![image-20251001014340945](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20251001014340945.png)
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202510231235329.png" style="zoom:50%;" />
