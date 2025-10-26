@@ -1,6 +1,6 @@
 # 01 单词 词组
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202510260806774.png" alt="image-20251026080645690" style="zoom:50%;" />
+![image-20251026080937816](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20251026080937816.png)
 
 
 
