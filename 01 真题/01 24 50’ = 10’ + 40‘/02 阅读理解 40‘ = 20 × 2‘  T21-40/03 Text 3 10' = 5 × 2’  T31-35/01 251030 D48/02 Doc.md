@@ -1,6 +1,6 @@
 # 01 单词 词组
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202510300907798.png" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202510301722105.png" alt="image-20251030172207008" style="zoom:50%;" />
 
 
 
