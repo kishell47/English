@@ -6,7 +6,7 @@
 
 # 02 单词 词组
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202511011020205.png" alt="image-20251101102032101" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202511081904318.png" style="zoom:50%;" />
 
 
 
