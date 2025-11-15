@@ -6,4 +6,16 @@
 
 # 02 单词 词组
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202510250424419.png" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202511152158147.png" alt="image-20251115215848112" style="zoom:50%;" />
+
+
+
+# 02 （1）
+
+![image-20251115220432273](https://cvp.oss-cn-shanghai.aliyuncs.com/202511152204303.png)
+
+
+
+# 03 （2）
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202511152218207.png" alt="image-20251115221847173" style="zoom:50%;" />
