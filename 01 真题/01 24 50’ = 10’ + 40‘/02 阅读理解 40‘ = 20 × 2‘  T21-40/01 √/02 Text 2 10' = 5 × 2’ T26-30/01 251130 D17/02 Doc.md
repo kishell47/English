@@ -12,7 +12,7 @@
 
 # 03 单词 词组
 
-![image-20251026080937816](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20251026080937816.png)
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202511301907234.png" alt="image-20251130190647799" style="zoom:50%;" />
 
 
 
