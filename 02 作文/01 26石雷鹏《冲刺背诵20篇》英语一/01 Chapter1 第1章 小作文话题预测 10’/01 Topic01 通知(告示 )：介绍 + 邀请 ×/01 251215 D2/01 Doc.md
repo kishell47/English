@@ -6,4 +6,4 @@
 
 # 02 参考范文
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202512112004087.png" alt="image-20251211200419443" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202512151557488.png" alt="image-20251215155751350" style="zoom:50%;" />
