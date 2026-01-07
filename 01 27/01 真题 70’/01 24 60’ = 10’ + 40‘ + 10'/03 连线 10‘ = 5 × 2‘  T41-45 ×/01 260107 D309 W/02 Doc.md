@@ -12,4 +12,4 @@
 
 # 03 T41 2’
 
-![image-20260105224016688](https://cvp.oss-cn-shanghai.aliyuncs.com/202601052240815.png)
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202601071417018.png" alt="image-20260107141750943" style="zoom:50%;" />
