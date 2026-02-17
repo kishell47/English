@@ -28,4 +28,4 @@
 
 # 06 T44 2'
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20260208085500239.png" alt="image-20260208085500239" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202602140815426.png" alt="image-20260214081526493" style="zoom:50%;" />
