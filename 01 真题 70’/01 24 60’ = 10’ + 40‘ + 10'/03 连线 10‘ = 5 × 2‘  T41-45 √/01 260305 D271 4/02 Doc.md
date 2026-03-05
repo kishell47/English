@@ -6,7 +6,7 @@
 
 # 02 答案
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202512021157089.png" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202603041917888.png" alt="image-20260304191740774" style="zoom:50%;" />
 
 
 
@@ -18,7 +18,7 @@
 
 # 04 T42 2‘
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202601200955276.png" alt="04 T42 2‘" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202603041917295.png" alt="image-20260304191721161" style="zoom:50%;" />
 
 # 05 T43 2‘
 
