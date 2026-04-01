@@ -1,3 +1,9 @@
+# 00 单词
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202604011941419.png" alt="00 单词" style="zoom:50%;" />
+
+
+
 # 01 题目
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202511191909592.png" alt="image-20251119190905570" style="zoom:50%;" />
